@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saumitra11
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Cyber Security, Data Science and Web Development
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me saumitrapathak11@gmail.com
 
