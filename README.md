@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saumitrapathak11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MWqPvNdQ116qeAtTgB_Zx_xaD1VCrYna/view?usp=drive_link](https://drive.google.com/file/d/1cjzT3d0-JlpjYX-DZLUc5aCfuyvTCJFL/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cjzT3d0-JlpjYX-DZLUc5aCfuyvTCJFL/view](https://drive.google.com/file/d/1cjzT3d0-JlpjYX-DZLUc5aCfuyvTCJFL/view)
 
 - ⚡ Fun fact **I love being alone**
 
