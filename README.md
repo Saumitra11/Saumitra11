@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saumitra Pathak</h1>
 <h3 align="center">Software Engineer | JavaScript | Ex-HPE</h3>
 
-- 🔭 I’m currently working on [UrbanHabitats](https://urban-habitats-page.pages.dev/)
+- 🔭 I’m currently working on [InvestiGate].
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://saumitra-pathak.pages.dev/](https://saumitra-pathak.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://saumitra-pathak.pages.dev/](https://saumitra-pathak.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Node**
 
 - 📫 How to reach me **saumitrapathak11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MWqPvNdQ116qeAtTgB_Zx_xaD1VCrYna/view?usp=drive_link](https://drive.google.com/file/d/1MWqPvNdQ116qeAtTgB_Zx_xaD1VCrYna/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MWqPvNdQ116qeAtTgB_Zx_xaD1VCrYna/view?usp=drive_link](https://drive.google.com/file/d/1cjzT3d0-JlpjYX-DZLUc5aCfuyvTCJFL/view)
 
 - ⚡ Fun fact **I love being alone**
 
