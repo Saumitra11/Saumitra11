@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumitra Pathak</h1>
-<h3 align="center">Software Engineer | JavaScript | Ex-HPE</h3>
+<h3 align="center">Software Engineer | JavaScript | Cloud Developer @ HPE</h3>
 
 - 🔭 I’m currently working on InvestiGate.
 
