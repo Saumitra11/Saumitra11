@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumitra Pathak</h1>
 <h3 align="center">Software Engineer | JavaScript | Cloud Developer @ HPE</h3>
 
-- 🔭 I’m currently working on InvestiGate.
+- 🔭 I’m currently working on Wanderly.
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
